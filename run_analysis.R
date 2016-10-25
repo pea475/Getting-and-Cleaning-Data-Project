@@ -42,4 +42,5 @@ data_merged <- arrange(data_merged,subject, activity_num, activity_name)
 data_merged <- data.table(melt(data_merged, key(data_merged), variable.name="featureCode"))
 
 
-###Up to this point I am having problems. Please consider this for partial credit
+###Up to this point the code works. From here now, I tried different things, but I could not merge the activity names and separate that
+###into different columns.
