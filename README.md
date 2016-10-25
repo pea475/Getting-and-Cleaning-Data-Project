@@ -19,7 +19,7 @@ Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
 
-Steps to reproduce this project
+# Steps to reproduce this project
 
 Open the R script run_analysis.r using a text editor.
 It won't be executable, since I had problems and could not finish it. Please consider it for partial credit
